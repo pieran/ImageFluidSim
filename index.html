@@ -49,6 +49,7 @@
             backgroundImage.onload = () => {
                 startSimulation(backgroundImage);
             };
+            backgroundImage.crossOrigin = "Anonymous";
 
             const queryString = window.location.search;
             console.log(queryString);
