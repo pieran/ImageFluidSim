@@ -1,7 +1,15 @@
 /*
+    Image Fluid Simulation
+
+    Creates a smooth 2D fluid simulation based on a given image. Background bleeding
+    added to allow the image to eventually blend back into the default dye colors. 
+    Code based on Fluid simulation by Pavel Dobryakov. 
+*/
+
+/*
 MIT License
 
-Copyright (c) 2017 Pavel Dobryakov
+ Copyright (c) 2017 Pavel Dobryakov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
