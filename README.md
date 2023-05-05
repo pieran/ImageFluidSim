@@ -1,5 +1,7 @@
 # ImageFluidSim
-A WebGL fluid simulation based on an existing images.
+A WebGL fluid simulation based on existing images. 
+
+Click and drag to inteact with the fluid/image simulation.
 
 https://pieran.github.io/
 
